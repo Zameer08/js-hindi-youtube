@@ -1,6 +1,6 @@
 "use strict"; // treat all JS code as newer version
 
-// alert( 3 + 3) // we are using nodejs, not browser. we can also use the console of the brower enginer it will give answer of it instead of it because js engine is tied to browsr engines
+// alert( 3 + 3) // we are using nodejs, not browser. we can also use the console of the brower enginer it will give answer of it instead of error because js engine is tied to browsr engines
 
 console.log(3 
     +
