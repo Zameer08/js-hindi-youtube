@@ -1,6 +1,8 @@
 const accountId = 2323232
 let accountEmail = "chaiaurbiscut.com" 
 var accountPassword = "19273921731" accountCity = "Dubai" 
+/*As you can see the code editor is showing this as an error by underlining it with red and asking us to assign any keyword to it*/
+
 let accountState; 
 
 // accountId = 3 
